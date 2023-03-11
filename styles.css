@@ -225,7 +225,7 @@ align-items: center;
   /* ABOUT US */
   .title {
     margin-top: 10%;
-    margin-left: 130%;
+    margin-left: 145%;
     white-space: nowrap;
   }
 
@@ -313,12 +313,12 @@ img[src="img/sushivector1.png"] {
 /* MENU */
 .menu-title {
     margin-top: 9%;
-    margin-left: 39%;
+    margin-left: 46%;
     text-align: inherit;
 }
 
 .menu {
-margin-left: 9%;
+margin-left: 13%;
 }
 .menu-group-heading {
     margin: 0;
